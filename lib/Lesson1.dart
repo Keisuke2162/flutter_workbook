@@ -7,6 +7,9 @@ class RowColumn extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      appBar: AppBar(
+        title: Text("Lesson1"),
+      ),
       body: Center(
         child: SizedBox(
           height: 200,

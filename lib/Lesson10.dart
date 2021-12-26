@@ -10,6 +10,9 @@ class Lesson10 extends StatelessWidget {
     final PageController controller = PageController(initialPage: 0);
 
     return Scaffold(
+      appBar: AppBar(
+        title: Text("Lesson10"),
+      ),
       body: PageView(
         scrollDirection: Axis.horizontal,
         controller: controller,

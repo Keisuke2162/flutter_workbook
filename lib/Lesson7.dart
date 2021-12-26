@@ -7,11 +7,12 @@ class Lesson7 extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      appBar: AppBar(
+        title: Text("Lesson7"),
+      ),
       body: Center(
         child: Column(
           children: [
-            SizedBox(height: 80),
-
             ElevatedButton(
               onPressed: () {
                 launch(

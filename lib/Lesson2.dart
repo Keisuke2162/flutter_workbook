@@ -15,6 +15,9 @@ class Lesson2 extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      appBar: AppBar(
+        title: Text("Lesson2"),
+      ),
       body: ListView.builder(
         itemCount: testData.length,
         itemBuilder: (context, index) {

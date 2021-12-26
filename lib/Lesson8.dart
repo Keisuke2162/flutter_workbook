@@ -7,6 +7,9 @@ class Lesson8 extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      appBar: AppBar(
+        title: Text("Lesson8"),
+      ),
       body: Center(
         child: Column(
           children: [
