@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter_workbook/Lesson5.dart';
 import 'package:flutter_workbook/Lesson7.dart';
 
+// ８：ダイアログを出そう(難易度C)
+
 class Lesson8 extends StatelessWidget {
 
   @override

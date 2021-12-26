@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter_workbook/Lesson5.dart';
 import 'package:introduction_screen/introduction_screen.dart';
 
+// １５：オンボードも簡単に(難易度C)
+
 class Lesson15 extends StatelessWidget {
 
   // データ

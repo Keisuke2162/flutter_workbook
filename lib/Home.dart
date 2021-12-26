@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_workbook/workbook_training_data.dart';
+import 'package:flutter_workbook/flutter_drill_data.dart';
 
 class Home extends StatelessWidget {
 

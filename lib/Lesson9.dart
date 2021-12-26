@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_workbook/Lesson5.dart';
 
+// ９：画面遷移を制御する(難易度C)
+
 class Lesson9 extends StatelessWidget {
 
   @override

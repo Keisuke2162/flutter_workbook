@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+// １４：アプリアイコンを簡単に実装する(難易度C)
+
 class Lesson14 extends StatelessWidget {
 
   @override

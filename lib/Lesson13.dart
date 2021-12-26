@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+// １３：STAC Kで画像にWIDGETを重ねる(難易度B)
+
 class Lesson13 extends StatelessWidget {
 
   @override

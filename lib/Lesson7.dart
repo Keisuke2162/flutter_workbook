@@ -2,6 +2,8 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart';
 
+// ７：URL_LAUNCHERでブラウザ起動 (難易度C)
+
 class Lesson7 extends StatelessWidget {
 
   @override

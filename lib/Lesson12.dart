@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+// １２：WIDGETを角丸や丸にする(難易度C)
+
 class Lesson12 extends StatelessWidget {
 
   @override

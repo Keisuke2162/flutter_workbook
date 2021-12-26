@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+// ６：WEB上の画像の表示(難易度C)
+
 class Lesson6 extends StatelessWidget {
 
   List<String> imageUrls = [

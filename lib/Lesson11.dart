@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+// １１：サイズの指定を極める(難易度C)
+
 class Lesson11 extends StatelessWidget {
 
   @override

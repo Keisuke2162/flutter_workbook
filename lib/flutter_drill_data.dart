@@ -7,7 +7,7 @@ import 'package:flutter_workbook/Lesson12.dart';
 import 'package:flutter_workbook/Lesson13.dart';
 import 'package:flutter_workbook/Lesson14.dart';
 import 'package:flutter_workbook/Lesson15.dart';
-import 'package:flutter_workbook/Lesson16A.dart';
+import 'package:flutter_workbook/Lesson19_ServiceSwipePage.dart';
 import 'package:flutter_workbook/Lesson2.dart';
 import 'package:flutter_workbook/Lesson3.dart';
 import 'package:flutter_workbook/Lesson4.dart';
@@ -40,6 +40,5 @@ List<LessonModel> lessonDataList = [
   LessonModel("１３：STAC Kで画像にWIDGETを重ねる(難易度B)", Lesson13()),
   LessonModel("１４：アプリアイコンを簡単に実装する(難易度C)", Lesson14()),
   LessonModel("１５：オンボードも簡単に(難易度C)", Lesson15()),
-  LessonModel("１６：デバイスからの画像選択とカメラ起動(難易度B)", Lesson16A()),
-
+  LessonModel("１９：横にスクロールできるコンテンツ (難易度A)", ServiceSwipePage()),
 ];
