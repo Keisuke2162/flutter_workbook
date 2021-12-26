@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 // １：ROWとCOLUMN(難易度D)
 
-class RowColumn extends StatelessWidget {
+class Lesson1 extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
